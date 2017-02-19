@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "296559925876",
+    "firebase_url": "https://niceride-2c7b4.firebaseio.com",
+    "project_id": "niceride-2c7b4",
+    "storage_bucket": "niceride-2c7b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296559925876:android:41cf1948737e46c2",
+        "android_client_info": {
+          "package_name": "com.example.insaf.elim_niceride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296559925876-glt2mlo8s5rrc05o0753lr8m0673o8hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.insaf.elim_niceride",
+            "certificate_hash": "FBBDA8D24313B39F5813586AC30A9225A1938558"
+          }
+        },
+        {
+          "client_id": "296559925876-m7p57tndv74r7bm01jgq1r5p75dua944.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP2t1dnsyvDddi4j-CPSdpkjJ_8rRM-yc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296559925876-m7p57tndv74r7bm01jgq1r5p75dua944.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
